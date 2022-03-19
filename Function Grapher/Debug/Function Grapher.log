@@ -1,0 +1,13 @@
+﻿  Function Grapher.cpp
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(195,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(196,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(198,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(198,55): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(283,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(286,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(318,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(332,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(394,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(387,7): warning C4101: 'D': unreferenced local variable
+C:\Users\sosik\source\repos\Function Grapher\Function Grapher.cpp(386,7): warning C4101: 'C': unreferenced local variable
+  Function Grapher.vcxproj -> C:\Users\sosik\source\repos\Function Grapher\Debug\Function Grapher.exe
